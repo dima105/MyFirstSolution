@@ -8,7 +8,7 @@ namespace MySecondConsole
     {
         public static void Main(string[] args)
         {
-            double variablePI = 3.141592653;
+            double variablePI = Math.PI;
             Console.WriteLine(variablePI);
 
 

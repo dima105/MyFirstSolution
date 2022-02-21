@@ -8,8 +8,8 @@ namespace MyFirstConsole
     {
         public static void Main(string[] args)
         {
-            int Variable = 10;
-            Console.WriteLine(Variable);
+            int variable = 10;
+            Console.WriteLine(variable);
             Console.ReadLine();
         }
     }
